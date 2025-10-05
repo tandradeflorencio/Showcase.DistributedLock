@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Showcase.DistributedLock.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="../Showcase.DistributedLock.Test/Showcase.DistributedLock.Test.csproj" Id="dbeedaf5-a603-4e33-a43a-f534d7d3a822" />
+  </Folder>
+</Solution>
